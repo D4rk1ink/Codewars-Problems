@@ -4,7 +4,7 @@ https://www.codewars.com/kata/55911ef14065454c75000062
 
 **Codewars Result**
 
-![alt text](http://url/to/img.png)
+![result](https://github.com/D4rk1ink/Codewars-Problems/blob/master/multiplying-numbers-as-strings/result.png?raw=true)
 
 **Problem**
 

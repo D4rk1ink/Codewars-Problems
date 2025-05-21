@@ -4,7 +4,7 @@ https://www.codewars.com/kata/525f4206b73515bffb000b21
 
 **Codewars Result**
 
-![alt text](http://url/to/img.png)
+![result](https://github.com/D4rk1ink/Codewars-Problems/blob/master/adding-big-numbers/result.png?raw=true)
 
 **Problem**
 

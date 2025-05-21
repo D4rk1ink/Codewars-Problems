@@ -4,7 +4,7 @@ https://www.codewars.com/kata/59b81886460387d8fc000043
 
 **Codewars Result**
 
-![alt text](http://url/to/img.png)
+![result](https://github.com/D4rk1ink/Codewars-Problems/blob/master/reverse-an-array/result.png?raw=true)
 
 **Problem**
 
@@ -30,3 +30,7 @@ reverse=a=>[...a].map(a.pop,a)
 
 ทำการแยก array ที่จะทำการ loop และ pop ออกจากกัน โดย `[...a]` จะใช้ในการ loop และใช้ array ที่รับมาในการ pop แต่ใน code จะใช้ function pop ในการเป็น callback ของ function map ซึ่ง by default พวก array function จะมีการ binding `this` กับ array นั้น ๆ แต่ใน code จะเป็นการ binding `this` ของ array ที่ใช้ในการ pop เพื่อไม่ให้ array ของ loop และ pop ชนกัน
 
+Reference AI guideline
+
+![guideline](https://github.com/D4rk1ink/Codewars-Problems/blob/master/reverse-an-array/image-1.png?raw=true)
+![guideline](https://github.com/D4rk1ink/Codewars-Problems/blob/master/reverse-an-array/image-2.png?raw=true)
