@@ -1,4 +1,5 @@
 **[Hard]**
+
 Show patient_id, first_name, last_name, and attending doctor's specialty.
 Show only the patients who has a diagnosis as 'Epilepsy' and the doctor's first name is 'Lisa'
 Check patients, admissions, and doctors tables for required information.
@@ -15,6 +16,7 @@ INNER JOIN doctors AS d ON d.first_name = "Lisa" AND d.doctor_id = a.attending_d
 ```
 ---
 **[Hard]**
+
 Show all of the patients grouped into weight groups.
 Show the total amount of patients in each weight group.
 Order the list by the weight group decending.
@@ -31,6 +33,7 @@ ORDER BY weight_group DESC
 ```
 ---
 **[Medium]**
+
 Show patient_id and first_name from patients where their first_name start and ends with 's' and is at least 6 characters long.
 
 ```sql
@@ -44,6 +47,7 @@ WHERE
 ```
 ---
 **[Medium]**
+
 Show unique birth years from patients and order them by ascending.
 
 ```sql
@@ -54,6 +58,7 @@ ORDER BY birth_date ASC
 ```
 ---
 **[Medium]**
+
 Show unique first names from the patients table which only occurs once in the list.
 For example, if two or more people are named 'John' in the first_name column then don't include their name in the output list. If only 1 person is named 'Leo' then include them in the output.
 
