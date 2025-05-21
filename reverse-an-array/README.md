@@ -1,3 +1,11 @@
+**Codewars Problem: The soul of wit: reverse an array**
+
+https://www.codewars.com/kata/59b81886460387d8fc000043
+
+**Codewars Result**
+
+![alt text](http://url/to/img.png)
+
 **Problem**
 
 create function ในการ reverse array โดย code size ต้องไม่เกิน 30 characters

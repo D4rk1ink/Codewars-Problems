@@ -1,3 +1,11 @@
+**Codewars Problem: Multiplying numbers as strings**
+
+https://www.codewars.com/kata/55911ef14065454c75000062
+
+**Codewars Result**
+
+![alt text](http://url/to/img.png)
+
 **Problem**
 
 ให้หา result ของการคูณของทั้ว 2 string value โดยที่ string value จะเป็น big integer ซึ่งไม่สามารถใช้ operation * ที่มีข้อกำจัดของขนาด integer ได้

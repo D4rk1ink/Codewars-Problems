@@ -1,3 +1,11 @@
+**Codewars Problem: Sum of Intervals**
+
+https://www.codewars.com/kata/52b7ed099cdc285c300001cd
+
+**Codewars Result**
+
+![alt text](http://url/to/img.png)
+
 **Problem**
 
 ให้หาผลรวมของ intervals ใน array[][2] ทั้งหมด โดย interval ที่ overlap กันจะนับเป็น 1 interval

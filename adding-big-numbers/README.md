@@ -1,3 +1,11 @@
+**Codewars Problem: Adding Big Numbers**
+
+https://www.codewars.com/kata/525f4206b73515bffb000b21
+
+**Codewars Result**
+
+![alt text](http://url/to/img.png)
+
 **Problem**
 
 ให้หา sum ของ 2 string value โดยที่ string value จะเป็น big integer ซึ่งไม่สามารถใช้ operation + ที่มีข้อกำจัดของขนาด integer ได้
