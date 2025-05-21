@@ -2,26 +2,26 @@
 
 ให้หาผลรวมของ intervals ใน array[][2] ทั้งหมด โดย interval ที่ overlap กันจะนับเป็น 1 interval
 
-```json
+```javascript
 // Input
 [[1,5]]
 
 // Output
-4
+// 4
 ```
-```json
+```javascript
 // Input
 [[1,5],[7,10]]
 
 // Output
-7 // (4 + 3)
+// (4 + 3) = 7
 ```
-```json
+```javascript
 // Input
 [[1,5],[7,10],[9,12]]
 
 // Output
-after merged = [[1,5],[7,12]] = 9
+// after merged = [[1,5],[7,12]] = 9
 ```
 
 **Solution**

@@ -2,7 +2,7 @@
 
 ให้หา result ของการคูณของทั้ว 2 string value โดยที่ string value จะเป็น big integer ซึ่งไม่สามารถใช้ operation * ที่มีข้อกำจัดของขนาด integer ได้
 
-```json
+```
 Expected: '91002328220491911630239667963', instead got: '9.100232822049192e+28'
 ```
 
